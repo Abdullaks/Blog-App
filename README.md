@@ -29,7 +29,7 @@ NOTE: Please read the RUN section before opening an issue.
 
 
 
- At the frontend of the project, and intsall node modules using  `npm install`
+ At the frontend of the project, and intsall node modules using  `npm install`,
  At the backend of the project, and intsall node modules using  `npm install`
 
 
