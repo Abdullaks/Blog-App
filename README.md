@@ -9,7 +9,7 @@
 
 ## Introduction
 
-A Bog app  using Node js, Express js,react.js and MongoDb.
+A Blog app  using Node js, Express js,react.js and MongoDb.
 
 NOTE: Please read the RUN section before opening an issue.
 
